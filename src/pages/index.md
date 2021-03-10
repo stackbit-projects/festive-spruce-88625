@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Gaming Website for Beginners
+    title: All your gaming needs at one place
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
