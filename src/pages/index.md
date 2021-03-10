@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: All your gaming needs at one place
-    subtitle: Celebrating daily wins with YourGoal
+    subtitle: 'Compare Prices, Performance inter platform'
     actions:
       - label: Try for free
         url: /pricing
