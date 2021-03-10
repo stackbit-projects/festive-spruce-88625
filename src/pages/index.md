@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: All your gaming needs at one place
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: Celebrating daily wins with YourGoal
     actions:
       - label: Try for free
         url: /pricing
