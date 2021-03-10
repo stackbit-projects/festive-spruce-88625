@@ -12,7 +12,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Blog",
+                "label": "Profile",
                 "url": "/blog",
                 "style": "link"
             },
