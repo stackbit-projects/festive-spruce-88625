@@ -1,24 +1,6 @@
 ---
 title: Home
 sections:
-  - type: hero_section
-    title: All your gaming needs at one place
-    subtitle: 'Compare Prices, Performance inter platform'
-    actions:
-      - label: Try for free
-        url: /pricing
-        style: primary
-    image: images/icon-3.svg
-    image_alt: Hero section placeholder image
-    media_position: bottom
-    align: center
-    padding_top: large
-    padding_bottom: small
-    background_color: none
-    background_image: images/icon-3.svg
-    background_image_position: center top
-    background_image_size: auto
-    background_image_opacity: 60
   - type: grid_section
     title: Featured On
     align: center
