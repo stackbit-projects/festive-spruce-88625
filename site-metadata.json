@@ -7,7 +7,7 @@
     "header": {
         "title": "Startup",
         "logo": "images/icon-3.svg",
-        "logo_alt": "YourGoal logo",
+        "logo_alt": "GameBit",
         "has_primary_nav": false,
         "has_secondary_nav": true,
         "secondary_nav_links": [
